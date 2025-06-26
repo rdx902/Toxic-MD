@@ -25,15 +25,15 @@ zokou(
 
         // Prepare the initial help message
         let infoMsg = `
-     𝐓𝐎𝐗𝐈𝐂-𝐌𝐃 
+     SOURAJIT-AI 
 
 VERSION
-> 𝐓𝐎𝐗𝐈𝐂-𝐌𝐃 V2.0
+> SOURAJIT-AI V2.0
 
 ◈━━━━━━━━━━━━━━━━◈
 │❒⁠⁠⁠⁠ TIME : ${temps}
 │❒⁠⁠⁠⁠ DATE : ${date}
-│❒⁠⁠⁠⁠ DEV : 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧
+│❒⁠⁠⁠⁠ DEV  : SOURAJIT+VIRAT
 ⁠⁠⁠⁠◈━━━━━━━━━━━━━━━━◈
   `;
 
@@ -44,7 +44,7 @@ VERSION
 
         // Create a numbered list of categories
         let menuMsg = `
-     𝐓𝐎𝐗𝐈𝐂-𝐌𝐃 2025™
+     SOURAJIT-AI 2025™
 
 ◈━━━━━━━━━━━━━━━━◈
 `;

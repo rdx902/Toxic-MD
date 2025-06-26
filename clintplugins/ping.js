@@ -33,7 +33,7 @@ zokou({
         else quality = "𝐒𝐥𝐨𝐰";
 
        
-        const resultMessage = `𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐓𝐢𝐦𝐞⚡: ${pingResult} 𝐦𝐬\n
+        const resultMessage = `_SOURAJIT-AI-SPEED⚡_: ${pingResult} 𝐦𝐬\n
 
 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐐𝐮𝐚𝐥𝐢𝐭𝐲🖥️: ${quality}\n`;
 
